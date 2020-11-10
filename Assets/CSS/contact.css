@@ -1,0 +1,12 @@
+body {
+     background-color:rgb(210, 230, 245); 
+}
+
+form {
+    width: 30%;
+}
+
+.contact {
+    color: steelblue;
+    margin-left: 10px;
+}

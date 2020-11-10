@@ -1,0 +1,8 @@
+body {
+    background-color:rgb(173, 181, 187);
+    text-align: center;
+}
+
+.col-md-6 {
+    margin-top: 20px;
+}
