@@ -2,6 +2,10 @@ body {
      background-color:rgb(210, 230, 245); 
 }
 
+nav {
+    text-align: center;
+}
+
 form {
     width: 30%;
 }

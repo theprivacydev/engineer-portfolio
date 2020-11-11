@@ -2,6 +2,10 @@ body {
     background-color:rgb(147, 160, 170);
 }
 
+nav {
+    text-align: center;
+}
+
 img {
     margin-right: 20px;
 }
