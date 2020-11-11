@@ -3,6 +3,10 @@ body {
     text-align: center;
 }
 
+h1 {
+    color: rgb(67, 67, 82);
+}
+
 .col-md-6 {
     margin-top: 20px;
 }
