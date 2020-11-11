@@ -14,3 +14,7 @@ form {
     color: steelblue;
     margin-left: 10px;
 }
+
+.container {
+    background-color: rgb(183, 210, 231);
+}

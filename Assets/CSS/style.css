@@ -11,5 +11,7 @@ h1 {
 }
 
 .container-fluid {
+    width: 80%;
     padding: 30px;
+    background-color: rgb(124, 146, 165);
 }

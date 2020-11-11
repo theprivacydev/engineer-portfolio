@@ -6,3 +6,7 @@ body {
 .col-md-6 {
     margin-top: 20px;
 }
+
+.container {
+    background-color: rgb(169, 173, 177);
+}
