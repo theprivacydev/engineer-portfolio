@@ -6,6 +6,10 @@ nav {
     text-align: center;
 }
 
-img {
-    margin-right: 20px;
+h1 {
+    text-align: center;
+}
+
+.container-fluid {
+    padding: 30px;
 }
