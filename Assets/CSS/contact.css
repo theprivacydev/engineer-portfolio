@@ -1,5 +1,5 @@
 body {
-     background-color:rgb(210, 230, 245); 
+     background-color:rgb(128, 153, 172); 
 }
 
 nav {
@@ -11,10 +11,10 @@ form {
 }
 
 .contact {
-    color: steelblue;
+    color: rgb(47, 74, 97);
     margin-left: 10px;
 }
 
 .container {
-    background-color: rgb(183, 210, 231);
+    background-color: rgb(147, 175, 197);
 }
