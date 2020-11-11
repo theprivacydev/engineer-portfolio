@@ -1,3 +1,3 @@
 # engineer-portfolio
 
-Deployed Applicatin:  https://jaymemizelle.github.io/engineer-portfolio/
+Deployed Application:  https://jaymemizelle.github.io/engineer-portfolio/
