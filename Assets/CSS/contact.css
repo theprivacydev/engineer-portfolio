@@ -10,6 +10,15 @@ form {
     width: 30%;
 }
 
+/* footer links */
+a{
+    color: rgb(98, 132, 161);
+}
+
+a:hover {
+    color: steelblue;
+}
+
 .contact {
     color: rgb(47, 74, 97);
     margin-left: 10px;
@@ -17,4 +26,12 @@ form {
 
 .container {
     background-color: rgb(147, 175, 197);
+}
+
+/* footer */
+footer {
+    margin-bottom: 0;
+    background-color: #343a40;
+    color: #eee;
+    text-align: center;
 }

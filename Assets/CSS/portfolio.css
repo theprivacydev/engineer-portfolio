@@ -3,9 +3,20 @@ body {
     text-align: center;
 }
 
+/* header */
 h1 {
     color: rgb(67, 67, 82);
 }
+
+/* footer links */
+a{
+    color: rgb(98, 132, 161);
+}
+
+a:hover {
+    color: steelblue;
+}
+
 
 .col-md-6 {
     margin-top: 20px;
@@ -13,4 +24,12 @@ h1 {
 
 .container {
     background-color: rgb(169, 173, 177);
+}
+
+/* footer */
+footer {
+    margin-bottom: 0;
+    background-color: #343a40;
+    color: #eee;
+    text-align: center;
 }
