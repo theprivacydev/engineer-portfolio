@@ -1,6 +1,7 @@
 body {
     background-color:rgb(173, 181, 187);
     text-align: center;
+    margin-bottom:20px;
 }
 
 /* header */
@@ -18,11 +19,14 @@ a:hover {
 }
 
 
+/* image margin */
 .col-md-6 {
     margin-top: 20px;
 }
 
-.container {
+main.container {
+    margin-bottom: 30px;
+    padding-bottom: 40px;
     background-color: rgb(169, 173, 177);
 }
 

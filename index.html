@@ -5,10 +5,10 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Home</title>
-  <!-- Bootstrap -->
+  <!-- bootstrap -->
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css"
     integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
-  <!-- Fontawesome -->
+  <!-- fontawesome -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <!-- CSS -->
   <link rel="stylesheet" href="./assets/css/style.css">
@@ -16,15 +16,15 @@
 </head>
 
 <body>
-
+  <!-- nav left side -->
   <nav class="navbar sticky-top navbar-expand-lg navbar-dark bg-dark">
     <a class="navbar-brand" href="#">Jayme Mizelle</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
       aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
-
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <!-- nav right side -->
+    <section class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav ml-auto">
         <li class="nav-item active">
           <a class="nav-link" href="./index.html">Home <span class="sr-only">(current)</span></a>
@@ -36,24 +36,29 @@
           <a class="nav-link" href="./contact.html">Contact</a>
         </li>
       </ul>
-    </div>
+    </section>
+    <!-- end collapse -->
   </nav>
 
-  <br><br>
+  <br /> <br />
 
   <main class="container-fluid cxt-padded" id="my-container">
+
     <header class="container">
-      <div class="row-fluid"></div>
+      <details class="row-fluid"></details>
       <h1 class="text-center">About Me</h1>
       <hr />
     </header>
-    <div class="row">
+
+    <section class="row">
+
       <figure class="col-md-3 text-md text-center">
         <img class="rounded-circle img-fluid" src="./assets/images/MyPic.jpg" alt="Picture of Jayme smiling"
           width="400">
       </figure>
+
       <article class="col-md-9 text-md-left text-center">
-        <br>
+        <br />
         <p class="lead">
           I am a full stack web developer leveraging a background in healthcare, which has provided me with a number of transferable skills such as great attention to detail, documentation of sensitive and private information, adaptability, flexibility, and patience. Problem solving is my passion, and learning is my obsession, which makes software development the perfect field for me. I implement my skills in HTML5, CSS3, Bootstrap, and JavaScript with balance, design, and functionality as my focus.
         </p>
@@ -66,23 +71,28 @@
           collaborating with my colleagues to create solutions built from innovative perspectives.
         </p>
       </article>
-      <!-- /.col-md-9 -->
-    </div>
-    <!-- /.row -->
+      <!-- end col-md-9 -->
+    </section>
+    <!-- end row -->
   </main>
 
-    <br>
+  <br />
 
 
-    <footer class="navbar fixed-bottom navbar-dark bg-dark">
-      <i class="fa fa-github" aria-hidden="true">
-        <a href="https://github.com/jaymemizelle/" target="_blank">Jayme's Github</a>
-      </i>
-      <i class="fa fa-code-fork" aria-hidden="true"></i>
-      <i class="fa fa-linkedin" aria-hidden="true">
-        <a href="https://www.linkedin.com/in/jayme-mizelle/" target ="_blank">Jayme's LinkedIn</a>
-      </i>
-    </footer>
+  <footer class="navbar fixed-bottom navbar-dark bg-dark">
+    <!-- icon -->
+    <i class="fa fa-github" aria-hidden="true">
+      <!-- link -->
+      <a href="https://github.com/jaymemizelle/" target="_blank">Jayme's Github</a>
+    </i>
+    <!-- icon -->
+    <i class="fa fa-code-fork" aria-hidden="true"></i>
+    <!-- icon -->
+    <i class="fa fa-linkedin" aria-hidden="true">
+      <!-- link -->
+      <a href="https://www.linkedin.com/in/jayme-mizelle/" target ="_blank">Jayme's LinkedIn</a>
+    </i>
+  </footer>
 
           <!-- jQuery -->
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
