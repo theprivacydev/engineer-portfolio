@@ -2,16 +2,19 @@ body {
     background-color:rgb(147, 160, 170);
 }
 
+
 /* override bootstrap's alignment of text */
 nav {
     text-align: center;
 }
-/* header */
 
+
+/* header */
 h1 {
     color: rgb(47, 74, 97);
     text-align: center;
 }
+
 
 /* footer links */
 a{
@@ -22,6 +25,7 @@ a:hover {
     color: steelblue;
 }
 
+
 /* override bootstrap's container margin's */
 .container-fluid {
     width: 90%;
@@ -29,6 +33,7 @@ a:hover {
     margin-bottom: 30px;
     background-color: rgb(124, 146, 165);
 }
+
 
 /* footer */
 footer {
