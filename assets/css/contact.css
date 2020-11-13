@@ -1,5 +1,5 @@
 body {
-     background-color:rgb(128, 153, 172); 
+    background-color: #76a09d;
 }
 
 
@@ -21,7 +21,7 @@ a:hover {
 
 /* header */
 .contact {
-    color: rgb(47, 74, 97);
+    color: rgb(47, 89, 122);
     margin-top: 20px;
 }
 
@@ -30,9 +30,9 @@ header.row {
 }
 
 
-/* "About Me" background */
+/* "Contact" background */
 .container {
-    background-color: rgb(148, 173, 192);
+    background-color: #a2b6cc;
 }
 
 section.row {
@@ -43,6 +43,7 @@ section.row {
 
 /* footer */
 footer {
+    height: 50px;
     margin-bottom: 0;
     background-color: #343a40;
     color: #eee;

@@ -27,7 +27,7 @@ a:hover {
 }
 
 
-/* "Portfolio background */
+/* "Portfolio" background */
 main.container {
     margin-bottom: 30px;
     padding-bottom: 40px;
@@ -37,6 +37,7 @@ main.container {
 
 /* footer */
 footer {
+    height: 50px;
     margin-bottom: 0;
     background-color: #343a40;
     color: #eee;
