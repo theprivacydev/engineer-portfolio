@@ -1,0 +1,42 @@
+body {
+     background-color:rgb(128, 153, 172); 
+}
+
+/* override bootstrap's alignment of text */
+nav {
+    text-align: center;
+}
+
+/* footer links */
+a {
+    color: rgb(98, 132, 161);
+}
+
+a:hover {
+    color: steelblue;
+}
+
+/* header */
+.contact {
+    color: rgb(47, 74, 97);
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.container {
+    background-color: rgb(183, 210, 231);
+}
+
+section.row {
+    margin: 20px;
+    padding: 20px;
+}
+
+
+/* footer */
+footer {
+    margin-bottom: 0;
+    background-color: #343a40;
+    color: #eee;
+    text-align: center;
+}
