@@ -2,16 +2,13 @@ body {
      background-color:rgb(128, 153, 172); 
 }
 
+/* override bootstrap's alignment of text */
 nav {
     text-align: center;
 }
 
-form {
-    width: 30%;
-}
-
 /* footer links */
-a{
+a {
     color: rgb(98, 132, 161);
 }
 
@@ -22,12 +19,19 @@ a:hover {
 /* header */
 .contact {
     color: rgb(47, 74, 97);
-    margin-left: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
 }
 
 .container {
-    background-color: rgb(147, 175, 197);
+    background-color: rgb(183, 210, 231);
 }
+
+section.row {
+    margin: 20px;
+    padding: 20px;
+}
+
 
 /* footer */
 footer {

@@ -2,12 +2,12 @@ body {
     background-color:rgb(147, 160, 170);
 }
 
-/* overrride bootstrap's left alignment for nav text */
+/* override bootstrap's alignment of text */
 nav {
     text-align: center;
 }
-
 /* header */
+
 h1 {
     color: rgb(47, 74, 97);
     text-align: center;
