@@ -1,5 +1,5 @@
 body {
-    background-color: #76a09d;
+    background-color:rgb(128, 153, 172);
 }
 
 
@@ -21,18 +21,19 @@ a:hover {
 
 /* header */
 .contact {
-    color: rgb(47, 89, 122);
+    color:rgb(47, 74, 97);
     margin-top: 20px;
 }
 
-header.row {
-    justify-content: center;
+.col-4 {
+    margin-left: 70px;
+  
 }
 
 
 /* "Contact" background */
 .container {
-    background-color: #a2b6cc;
+    background-color: rgb(147, 175, 197);
 }
 
 section.row {
