@@ -38,9 +38,14 @@ a:hover {
 
 section.row {
     margin: 20px;
+    margin-bottom: 20px;
     padding: 20px;
 }
 
+/* form: "message" text-box size */
+#exampleFormControlTextarea1 {
+    height: 100px;
+}
 
 /* footer */
 footer {
