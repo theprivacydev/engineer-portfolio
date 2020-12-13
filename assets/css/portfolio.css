@@ -10,6 +10,10 @@ h1 {
     color: rgb(67, 67, 82);
 }
 
+h2 {
+    color:  rgb(65, 90, 112)
+}
+
 
 /* footer links */
 a{
@@ -18,6 +22,10 @@ a{
 
 a:hover {
     color: steelblue;
+}
+
+img {
+    padding: 10px;
 }
 
 

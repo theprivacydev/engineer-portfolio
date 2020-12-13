@@ -1,8 +1,15 @@
 # engineer-portfolio
 
 
-This application is a very basic portfolio that was built utiilizing Bootstrap to create a responsive and functional site. The focus of this project was to create an application that was designed to render well on a variety of devices and screen sizes.
+Frontend Web Developer with a background in healthcare. Began as a self-taught developer and known for an ability to learn quickly. Effective at building intuitively designed applications through great attention to detail and passionate love of creating innovative solutions to problems.
 
+# Technologies used:
+* HTML5
+* CSS3
+* Javascript
+* Bootstrap
+
+# Screenshots of Application
 
 ![alternative text](./assets/images/about_me.png "Home Page")
 ![alternative text](./assets/images/portfolio.png "Portfolio Page")
@@ -10,4 +17,5 @@ This application is a very basic portfolio that was built utiilizing Bootstrap t
 
 
 
-Deployed Application:  https://jaymemizelle.github.io/engineer-portfolio/
+# Deployed Application URL:
+* https://jaymemizelle.github.io/engineer-portfolio/
