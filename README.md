@@ -7,10 +7,10 @@ Frontend Web Developer with a background in healthcare. Began as a self-taught d
 There are no special instructions to get a copy of this project up and running on your local machine. Simply click on the deployed application link or copy and paste the url into your search bar to open in the browser of your choice. 
 
 ## Table of Contents
-[Built With] (#built-with)
-[Pages] (#pages)
-[Deployment] (#deployment)
-[Author] (#author)
+* [Built With](#built-with)
+* [Pages](#pages)
+* [Deployment](#deployment)
+* [Author](#author)
 
 ## Built With
 * HTML5
