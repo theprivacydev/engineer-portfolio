@@ -1,4 +1,4 @@
-# engineer-portfolio
+# Engineer Portfolio
 
 
 Frontend Web Developer with a background in healthcare. Began as a self-taught developer and known for an ability to learn quickly. Effective at building intuitively designed applications through great attention to detail and passionate love of creating innovative solutions to problems.
