@@ -20,8 +20,13 @@ There are no special instructions to get a copy of this project up and running o
 
 ## Pages
 
+### About Me
 ![alternative text](./assets/images/about_me.png "Home Page")
+
+### Portfolio
 ![alternative text](./assets/images/portfolio.png "Portfolio Page")
+
+### Contact Page
 ![alternative text](./assets/images/contact.png "Contact Page")
 
 
