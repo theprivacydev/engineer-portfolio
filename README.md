@@ -37,8 +37,12 @@ There are no special instructions to get a copy of this project up and running o
 
 * Deployed Application URL: https://jaymemizelle.github.io/engineer-portfolio/
 
+## License
+* MIT
+
 ## Next Steps
 Update Portfolio Page with new projects as they are completed
 
-## Author
+## Contact the Author
 * Jayme Mizelle
+* jlm_developer@protonmail.com
