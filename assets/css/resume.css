@@ -1,0 +1,28 @@
+body {
+    background-color: #5C7087;
+}
+
+
+/* override bootstrap's alignment of text */
+nav {
+    text-align: center;
+}
+
+
+/* footer links */
+a{
+    color: rgb(98, 132, 161);
+}
+
+a:hover {
+    color: steelblue;
+}
+
+/* footer */
+footer {
+    height: 50px;
+    margin-bottom: 0;
+    background-color: #343a40;
+    color: #eee;
+    text-align: center;
+}
