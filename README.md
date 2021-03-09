@@ -5,14 +5,18 @@ Frontend Web Developer with a background in healthcare. Began as a self-taught d
 
 ## Table of Contents
 * [Getting Started](#getting-started)
+* [Deployment](#deployment)
 * [Built With](#built-with)
 * [Pages](#pages)
-* [Deployment](#deployment)
 * [Next Steps](#next-steps)
 * [Author](#author)
 
 ## Getting Started
 There are no special instructions to get a copy of this project up and running on your local machine. Simply click on the deployed application link or copy and paste the url into your search bar to open in the browser of your choice. 
+
+## Deployment:
+
+* Deployed Application URL: https://jaymemizelle.github.io/engineer-portfolio/
 
 
 ## Built With
@@ -31,11 +35,6 @@ There are no special instructions to get a copy of this project up and running o
 
 ### Contact Page
 ![alternative text](./assets/images/contact.png "Contact Page")
-
-
-## Deployment:
-
-* Deployed Application URL: https://jaymemizelle.github.io/engineer-portfolio/
 
 ## License
 * MIT
