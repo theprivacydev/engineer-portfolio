@@ -7,7 +7,6 @@ Frontend Web Developer with a background in healthcare. Began as a self-taught d
 * [Getting Started](#getting-started)
 * [Deployment](#deployment)
 * [Built With](#built-with)
-* [Pages](#pages)
 * [Next Steps](#next-steps)
 * [Author](#author)
 
@@ -16,7 +15,7 @@ There are no special instructions to get a copy of this project up and running o
 
 ## Deployment:
 
-* Deployed Application URL: https://jaymemizelle.github.io/engineer-portfolio/
+* Deployed Application URL: https://theprivacydev.github.io/engineer-portfolio/
 
 
 ## Built With
@@ -25,17 +24,6 @@ There are no special instructions to get a copy of this project up and running o
 * Javascript
 * Bootstrap
 
-## Pages
-
-### About Me
-![alternative text](./assets/images/about_me.png "Home Page")
-
-### Portfolio
-![alternative text](./assets/images/portfolio.png "Portfolio Page")
-
-### Contact Page
-![alternative text](./assets/images/contact.png "Contact Page")
-
 ## License
 * MIT
 
@@ -43,5 +31,5 @@ There are no special instructions to get a copy of this project up and running o
 Update Portfolio Page with new projects as they are completed
 
 ## Contact the Author
-* Jayme Mizelle
-* jlm_developer@protonmail.com
+* The Privacy Dev
+* theprivacydev@protonmail.com
