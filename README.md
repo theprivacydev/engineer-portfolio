@@ -6,6 +6,7 @@ Frontend Web Developer with a background in healthcare. Began as a self-taught d
 ## Table of Contents
 * [Getting Started](#getting-started)
 * [Deployment](#deployment)
+* [Usage](#usage)
 * [Built With](#built-with)
 * [Next Steps](#next-steps)
 * [Author](#author)
@@ -17,6 +18,9 @@ There are no special instructions to get a copy of this project up and running o
 
 * Deployed Application URL: https://theprivacydev.github.io/engineer-portfolio/
 
+
+## Usage
+![portfolio-screenshot](./assets/images/portfolio.png)
 
 ## Built With
 * HTML5
